@@ -1,0 +1,6 @@
+Client Matthew has joined the chat
+Client McConaughey has joined the chat
+Matthew: Hello I'm Matthew!
+McConaughey: Hey Hi I'm McConaughey!
+Client Matthew has left the chat!
+Client McConaughey has left the chat!
